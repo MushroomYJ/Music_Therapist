@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Therapist</string>
+    <string name="btn_login">Login</string>
+    <string name="title_activity_step">StepActivity</string>
+    <string name="userManual">User Manual: Three different types of songs will be playing in the music player
+        based on whether you are running, walking, or still in every 15 seconds. On the music player page, it will
+    automatically switch songs when you have modified steps in 15 seconds.</string>
+</resources>
